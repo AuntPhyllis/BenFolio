@@ -1,9 +1,8 @@
 <template>
   <div>
-    <MainBackground
-    width="100%"
-    height="100vh"/>
-  </div>
+      <Header float />
+      <MainBackground />
+  </div> 
 </template>
 
 
