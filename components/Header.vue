@@ -1,7 +1,18 @@
 <template>
-  <v-app-bar color="transparent" flat :absolute="float">
-    <v-toolbar-title class="font">
-      <v-btn text plain to="/">Ben Talbot</v-btn>
+  <v-app-bar color="transparent" 
+  flat 
+  :absolute="float"
+  >
+    <v-toolbar-title v-if="logo">
+      <router-link to="/">
+        <v-img
+            :src="require('@/assets/Logo/LogoFilled.svg')"
+            width="40px"
+            height="40px"
+            contain
+          >
+        </v-img>
+      </router-link>
     </v-toolbar-title>
     <v-spacer></v-spacer>
     <v-toolbar-items>
