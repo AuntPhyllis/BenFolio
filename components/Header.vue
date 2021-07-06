@@ -5,13 +5,17 @@
   >
     <v-toolbar-title v-if="logo">
       <router-link to="/">
-        <v-img
-            :src="require('@/assets/Logo/LogoFilled.svg')"
-            width="40px"
-            height="40px"
-            contain
+        <v-layout
+        class="pt-5"
+        >
+          <v-img
+          :src="require('@/assets/Logo/LogoFilled.svg')"
+          width="40px"
+          height="40px"
+          contain
           >
-        </v-img>
+         </v-img>
+        </v-layout>
       </router-link>
     </v-toolbar-title>
     <v-spacer></v-spacer>
