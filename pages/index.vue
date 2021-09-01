@@ -35,8 +35,11 @@
         </v-layout>
       </v-img>
       <About />
+      <Skills />
+      <Projects />
     
   </div> 
 </template>
+
 
 

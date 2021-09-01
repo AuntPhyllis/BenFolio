@@ -1,0 +1,51 @@
+[
+    {
+        "title": "SAIT Capstone: Self-Sovereign-Identity Application",
+        "content": "My final Capstone project during my time at SAIT. A web application that interfaces with Evernym's Connect.Me app to provide documents that are verified against Sovrin's Hyperledger Indy blockchain.",
+        "link": "https://github.com/TALBOTdev/SAIT-SSI-Capstone",
+        "images": [
+            "assets/Projects/SSICapstone/1.png",
+            "assets/Projects/SSICapstone/2.png",
+            "assets/Projects/SSICapstone/3.PNG"
+        ]
+    },
+    {
+        "title": "Flappy Ben: Unity Mobile Game",
+        "content": "Game that I made for school that is based off of the Flappy Bird mobile game. Programmed in the Unity game engine using C#. All assets and code created by me.",
+        "link": "https://github.com/TALBOTdev/FlappyBen",
+        "images": [
+            "assets/Projects/FlappyBen/flappybenicon.png",
+            "assets/Projects/FlappyBen/demo.jpg",
+            "assets/Projects/FlappyBen/gameover.JPG"
+        ]
+    },
+    {
+        "title": "Rock Paper Scissors: Network Java Game",
+        "content": "A simple application that lets two people play a rock, paper, scissors game over a network. Clients connect to a server that handles matchmaking and logs game traffic. Utilizes Java threads, sockets, and streams. This application was coded using the Observer pattern and uses the archaic Java Swing GUI library for all GUI elements.",
+        "link": "https://github.com/TALBOTdev/RockPaperScissorsApp",
+        "images": [
+            "assets/Projects/RockPaperScissors/rpslogo.png",
+            "assets/Projects/RockPaperScissors/login.PNG",
+            "assets/Projects/RockPaperScissors/gameplay.PNG",
+            "assets/Projects/RockPaperScissors/gameplay2.PNG"
+        ]
+    },
+    {
+        "title": "Shape Sorter: Java Sorting Algorithms",
+        "content": "Java app that parses the dimensions of polygons from a text file and sorts them by height, base area, or volume. The app can sort these polygons using bubble, insertion, selection, merge, quick, and gnome sort.",
+        "link": "https://github.com/TALBOTdev/ShapeSortingApp",
+        "images": [
+            "assets/Projects/ShapeSorter/shapes.PNG",
+            "assets/Projects/ShapeSorter/output.PNG"
+        ]
+    },
+    {
+        "title": "PL-SQL Demo: We Keep It Storage",
+        "content": "This project is based on the fictitious We Keep It Storage (WKIS) company's accounting system. In this double entry accounting system, transactions are taken from a holding table and inserted into a detailed transaction table and a transaction history table. Additionally, the appropriate account balance is updated in an account table.",
+        "link": "https://github.com/TALBOTdev/PL-SQL-Demo---WKIS",
+        "images": [
+            "assets/Projects/PLSQL/erd.PNG"
+        ]
+    }
+    
+]

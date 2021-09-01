@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Java",
+        "content": "Java is the language I spent the majority of the time learning at SAIT, and is my primary programming language. The programs I have written has dealt with database integration, MVC architecture, network threading, algorithms using Big-O notation, and security. Many of these projects are available to view on my Github.",
+        "icon": "mdi-language-java"
+    },
+    {
+        "title": "Oracle SQL",
+        "content": "SQL is another language I studied extensively while at SAIT. My SQL skills include database querying, data manipulation, database design and maintainence, database administration and scripting using PLSQL.",
+        "icon": "mdi-database-search"
+    },
+    {
+        "title": "Javascript",
+        "content": "I made many websites and web apps at SAIT using HTML, CSS, and Javascript. The Javascript side of these web apps includes basic scripting functions, reading and writing JSON data, asynchronous data loading using AJAX and more.",
+        "icon": "mdi-language-javascript"
+    },
+    {
+        "title": "VUE.js",
+        "content": "VUE.js is the first Javascript framework that I have used. This website is made using VUE.js! ",
+        "icon": "mdi-vuejs"
+    },
+    {
+        "title": "Vuetify",
+        "content": "I am using Vuetify in conjunction with VUE.js to provide the front-end styling for this website. Many of the individual elements of this website is from Vuetify.",
+        "icon": "mdi-vuetify"
+    },
+    {
+        "title": "Spring Boot",
+        "content": "I had the opportunity to do a 4 month internship at a local shipping brokerage in the IT department during fall break. During my time there I learned first hand how enterprise level code was created and maintained using Spring Boot. I also created my own full stack application that interfaced with the company's AS400 database using the MVC architecture.",
+        "icon": "mdi-leaf"
+    },
+    {
+        "title": "Unity",
+        "content": "In my emerging trends class, I was given a choice to learn any contemporary technology I wanted, and I chose Unity. I made my first ever game, titled \"Flappy Ben\", and wrote a few blog posts documenting the creation of the game, both of which are available down below.",
+        "icon": "mdi-unity"
+    }
+]
